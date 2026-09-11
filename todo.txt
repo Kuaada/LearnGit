@@ -1,0 +1,5 @@
+learn Linux
+practice grep
+learn shell
+finish threadpool
+practice commands
